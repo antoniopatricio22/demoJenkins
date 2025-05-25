@@ -1,6 +1,9 @@
-package test.java.exemplo;
+package exemplo;
 
 import org.junit.jupiter.api.Test;
+
+import com.exemplo.Usuario;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class UsuarioTest {
