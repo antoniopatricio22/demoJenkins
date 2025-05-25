@@ -1,4 +1,4 @@
-package main.java.com.exemplo;
+package com.exemplo;
 
 public class Usuario {
     private String nome;
