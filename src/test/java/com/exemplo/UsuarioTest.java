@@ -1,8 +1,6 @@
-package exemplo;
+package com.exemplo;
 
 import org.junit.jupiter.api.Test;
-
-import com.exemplo.Usuario;
 
 import static org.junit.jupiter.api.Assertions.*;
 
