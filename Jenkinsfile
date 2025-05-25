@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/seu-usuario/projeto-usuario.git'
+                git 'https://github.com/antoniopatricio22/demoJenkins.git'
             }
         }
 
